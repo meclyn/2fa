@@ -1,2 +1,1 @@
-# 2fa
-2FA (Two Factor Authentication)
+Download "FreeOTP" app to read the QRCode
