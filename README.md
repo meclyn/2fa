@@ -1,1 +1,1 @@
-Download "FreeOTP" app to read the QRCode
+Download "FreeOTP" app to read the QRCode.
