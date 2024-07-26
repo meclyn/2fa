@@ -2,7 +2,7 @@ import time
 import pyotp
 import qrcode
 
-#print(pyotp.random_base32())
+#print(pyotp.random_base32())w
 
 chave_mestre =  "VBGNKEMGRLXN65VTHMF3TTLC66DN3Z4W"
 
