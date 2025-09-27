@@ -2,7 +2,7 @@ import time
 import pyotp
 import qrcode
 
-#print(pyotp.random_base32())w
+#print(pyotp.random_base32())
 
 chave_mestre =  "VBGNKEMGRLXN65VTHMF3TTLC66DN3Z4W"
 
@@ -17,3 +17,4 @@ link = pyotp.TOTP(chave_mestre).provisioning_uri(name="matheus", issuer_name="Co
 
 meu_qrcode = qrcode.make(link)
 meu_qrcode.save("qrcode.png")
+
